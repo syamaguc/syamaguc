@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/syamaguc/">
+    <img src="https://komarev.com/ghpvc/?username=syamaguc" alt="syamaguc" />
+  </a>
+  <a href="http://twitter.com/syamaguc">
+    <img height="20" src="https://img.shields.io/twitter/follow/syamaguc?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/syamaguc">
+    <img height="20" src="https://img.shields.io/github/followers/syamaguc?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/syamaguc">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/syamaguc?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/13434587/syamaguc">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/13434587?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+  <a href="https://zenn.dev/syamaguc">
+    <img src="https://zenn.badge.syamaguc.com/s/syamaguc/likes?style=flat" alt="syamaguc likes" />
+  </a>
+</p>
