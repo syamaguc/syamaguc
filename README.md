@@ -50,3 +50,11 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/syamaguc/posts.svg" />
   </a>
 </p>
+
+## Env
+- OS: Archlinux
+- Keyboard: HHKB
+- Editor: Neovim
+- Terminal: Alacritty
+- Shell: zsh
+- Use: C/CPP, Python, Typescript, lua
