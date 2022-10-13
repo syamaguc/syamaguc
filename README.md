@@ -32,3 +32,21 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/13434587?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://zenn.dev/syamaguc">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/syamaguc/likes" />
+  </a>
+  <a href="https://zenn.dev/syamaguc">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/syamaguc/followers" />
+  </a
+  <a href="https://zenn.dev/syamaguc">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/syamaguc/articles" />
+  </a>
+  <a href="http://qiita.com/syamaguc">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/syamaguc/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/syamaguc">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/syamaguc/posts.svg" />
+  </a>
+</p>
