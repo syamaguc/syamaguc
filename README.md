@@ -31,7 +31,4 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/13434587/syamaguc">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/13434587?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="https://zenn.dev/syamaguc">
-    <img src="https://zenn.badge.syamaguc.com/s/syamaguc/likes?style=flat" alt="syamaguc likes" />
-  </a>
 </p>
