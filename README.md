@@ -26,26 +26,23 @@
     </p>
 </div>
 
+<br/>
+
 <details>
   <summary> 🔑 Personality</summary>
-
-<a href="https://gyazo.com/effd99f32e448fc5514ed7c58e64c2d2">
-  <img src="https://i.gyazo.com/effd99f32e448fc5514ed7c58e64c2d2.gif" alt="Image from Gyazo" width="500" align="right" />
-</a>
-
-- 🏛️ [INTJ-A](https://www.16personalities.com/intj-personality)
-- 💩[自己愛性パーソナリティ障害](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%9B%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+  <div style="display: flex; flex-direction: row-reverse; align-items: start;">
+    <a href="https://gyazo.com/effd99f32e448fc5514ed7c58e64c2d2" style="max-width: 50%; margin-left: 20px;">
+      <img src="https://i.gyazo.com/effd99f32e448fc5514ed7c58e64c2d2.gif" alt="Image from Gyazo" style="max-width: 100%;" />
+    </a>
+    <div style="flex: 1">
+      <ul>
+        <li>🏛️ <a href="https://www.16personalities.com/intj-personality">INTJ-A</a></li>
+        <li>💩 <a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%9B%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3">NPD</a></li>
+      </ul>
+    </div>
+  </div>
 </details>
+
 
 <br/>
 
