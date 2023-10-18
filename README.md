@@ -7,10 +7,16 @@
   </a>
   <blockquote>
     <p>
-      " Talk is cheap, Show me the code. "
+      The appearance of a child and the intellect of an adult.
     </p>
     <p>
-      💣 It's all a joke 💥
+      Miracle cute engineer & data scientist.
+    </p>
+    <p>
+      Talk is cheap, show me the code.
+    </p>
+    <p>
+      Truth is always a joke.
     </p>
   </blockquote>
 </div>
@@ -20,6 +26,7 @@
 
 - 🏛️ [INTJ-A](https://www.16personalities.com/intj-personality)
 - 💩 [NPD](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%9B%E6%80%A7%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E9%9A%9C%E5%AE%B3)
+- 💰 [Bitcoin Maximalist](https://www.reddit.com/r/Bitcoin/comments/car30w/if_you_dont_believe_me_or_dont_get_it_i_dont_have)
 
 </details>
 
@@ -60,7 +67,7 @@
 - Other: Github Actions, K8s
 
 <div align="center">
-<blockquote class="twitter-tweet">
+<blockquote>
     <p lang="ja" dir="ltr">【エンジニア用語解説】<br>
       <br>「完全に理解した」
       <br>製品を利用をするためのチュートリアルを完了できたという意味。
@@ -71,12 +78,7 @@
       <br>「チョットデキル」
       <br>同じ製品を自分でも１から作れるという意味。または開発者本人。
     </p>
-    &mdash; 伊藤 祐策(パソコンの大先生) (@ito_yusaku)
-    <a href="https://twitter.com/ito_yusaku/status/1042604780718157824?ref_src=twsrc%5Etfw">
-      September 20, 2018
-    </a>
 </blockquote>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 </details>
