@@ -18,6 +18,9 @@
     <p>
       Truth is always a joke.
     </p>
+    <p>
+      🖤
+    </p>
   </blockquote>
 </div>
 
