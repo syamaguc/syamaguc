@@ -2,7 +2,7 @@
   <h1 >syamaguc</h1>
 </div>
 <div align="center">
-<a href="https://imgur.com/hGuqMOa"><img src="https://i.imgur.com/hGuqMOa.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/hGuqMOa"><img src="https://i.imgur.com/hGuqMOa.jpg" title="source: imgur.com" width="50%" height="50%"/></a>
   <blockquote>
     <p>
       The appearance of a child and the intellect of an adult.
