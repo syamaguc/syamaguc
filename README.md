@@ -2,16 +2,15 @@
   <h1 >syamaguc</h1>
 </div>
 <div align="center">
-<a href="https://imgur.com/hGuqMOa"><img src="https://i.imgur.com/hGuqMOa.jpg" title="source: imgur.com" width="50%" height="50%"/></a>
+  <a href="https://imgur.com/JYDT0bF">
+    <img src="https://i.imgur.com/JYDT0bF.jpg" title="source: imgur.com" width="50%" height="50%" />
+  </a>
   <blockquote>
     <p>
       The appearance of a child and the intellect of an adult.
     </p>
     <p>
       Miracle cute engineer & data scientist.
-    </p>
-    <p>
-      Talk is cheap, show me the code.
     </p>
     <p>
       Truth is always a joke.
@@ -51,19 +50,24 @@
 
 ##### なにもわからない
 
-- Lang: Python, C/C++, Google Apps Script
-- Framework: Django, Gastby.js
+- Lang: Python, JavaScript/TypeScript, Google Apps Script
+- Framework:
+  - Next.js, Gastby.js
+  - FastAPI, Django
 - Cloud: AWS
-- Other: Docker, MySQL, PostgresSQL , Bigquery
+- Other: Docker, SQL
 
 ##### チョットデキル
 
-- そんなもんあるわけねぇだろw
+- Japanese
+- Soccer/Football
 
 ##### 完全に理解した
 
-- lang: Typescript, lua, Common Lisp, Rust
-- Framework: FastAPI, Flask, Next.js
+- lang: lua, Common Lisp, Rust, deno, C/C++
+- Framework:
+  - Flask
+  - Astro
 - Cloud: GCP
 - Other: Github Actions, K8s
 
@@ -91,9 +95,7 @@
 
 - 漫画・小説
 - アニメ・映画
-- ガジェット集め
-- サッカー観戦
-- 競馬
-- パチンコ&スロット
+- サッカー観戦(グナー)
+- 競馬、パチンコ&スロット
 
 </details>
